@@ -42,5 +42,7 @@ We used LIBROSA to calcuate the MFCC of the audio files. This technique is used 
 - Out-of-sample accuracy: 89.55%
 - Out-of-sample loss: 0.32
 
+### Learning Curves:
+
 ![Learning Curve](https://raw.githubusercontent.com/maezzedine/CMPS287-Speech-Emotion-Recognition/master/media/learning_curve.png?token=AKPLNOLUKM4UPP5Y5EULMP3AVPUR2)
 ![Loss Curve](https://raw.githubusercontent.com/maezzedine/CMPS287-Speech-Emotion-Recognition/master/media/loss_curve.png?token=AKPLNOPKUZLZIKA6QKZKVFTAVPU3W)
